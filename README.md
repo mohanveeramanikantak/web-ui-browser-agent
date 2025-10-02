@@ -1,11 +1,3 @@
-<img src="./assets/web-ui.png" alt="Browser Use Web UI" width="full"/>
-
-<br/>
-
-This project builds upon the foundation of the [browser-use](https://github.com/browser-use/browser-use), which is designed to make websites accessible for AI agents.
-
-We would like to officially thank [WarmShao](https://github.com/warmshao) for his contribution to this project.
-
 **WebUI:** is built on Gradio and supports most of `browser-use` functionalities. This UI is designed to be user-friendly and enables easy interaction with the browser agent.
 
 **Expanded LLM Support:** We've integrated support for various Large Language Models (LLMs), including: Google, OpenAI, Azure OpenAI, Anthropic, DeepSeek, Ollama etc. And we plan to add support for even more models in the future.
