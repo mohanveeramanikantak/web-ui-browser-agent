@@ -8,7 +8,7 @@ Read the [quickstart guide](https://docs.browser-use.com/quickstart#prepare-the-
 
 #### Step 1: Clone the Repository
 ```bash
-git clone [https://github.com/browser-use/web-ui.git](https://github.com/mohanveeramanikantak/web-ui-browser-agent.git)
+git clone (https://github.com/mohanveeramanikantak/web-ui-browser-agent.git)
 ```
 
 #### Step 2: Set Up Python Environment
