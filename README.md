@@ -92,8 +92,7 @@ cp .env.example .env
 
 #### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/browser-use/web-ui.git
-cd web-ui
+git clone https://github.com/mohanveeramanikantak/web-ui-browser-agent.git
 ```
 
 #### Step 2: Configure Environment
